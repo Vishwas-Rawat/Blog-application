@@ -4,8 +4,8 @@ Ensure you have the following installed on your system:
     2. npm (comes with Node.js)
 
 Installation:
-1. Clone the repository: git clone <repository-url>
-2. Navigate to the project directory: cd <project-directory>
+1. Clone the repository: git clone https://github.com/Vishwas-Rawat/Blog-application.git
+2. Navigate to the project directory: cd "Path of your blog application folder"
 3. Install the required dependencies: npm install
 
 Resolving Common Issues:
@@ -23,7 +23,7 @@ Running the Project
 
 Accessing the Application
 Provide details about how users can access or interact with the application, e.g.:
-    Open your browser and navigate to: http://localhost:<port-number>
+    Open your browser and navigate to: http://localhost:3000
 
 Additional Notes
 Ensure you have the necessary permissions to run the commands.
